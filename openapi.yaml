@@ -1,18 +1,1 @@
 openapi: 3.0.3
-info:
-  version: 1.0.0
-  title: Example.com
-  termsOfService: 'https://example.com/terms/'
-  contact:
-    email: contact@example.com
-  license:
-  x-logo:
-  description: 
-externalDocs:
-  description: Find out how to create a GitHub repo for your OpenAPI definition.
-  url: 'https://github.com/Rebilly/generator-openapi-repo'
-tags:
-servers:
-paths:
-components:
-security:
