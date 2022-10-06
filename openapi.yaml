@@ -24,8 +24,8 @@ tags:
 servers:
   - url: 'http://example.com/api/v1'
 paths:
-   '/users/{username}':
-    $ref: 'paths/users@{username}.yaml'
+   '/users':
+    $ref: ''
 components:
 security:
   - SecretAPIKey: []
