@@ -23,12 +23,9 @@ tags:
     description: Operations about user
 servers:
   - url: 'http://example.com/api/v1'
-  - url: 'https://example.com/api/v1'
 paths:
     # paths here
 components:
   securitySchemes:
-    # security schemes here
 security:
   - SecretAPIKey: []
-  - JWT: []
