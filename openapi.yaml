@@ -5,14 +5,9 @@ info:
   termsOfService: 'https://example.com/terms/'
   contact:
     email: contact@example.com
-    url: 'http://example.com/contact'
   license:
-    name: Apache 2.0
-    url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
   x-logo:
-    url: 'https://apis.guru/openapi-template/logo.png'
-  description: >
-    # Your description here
+  description: 
 externalDocs:
   description: Find out how to create a GitHub repo for your OpenAPI definition.
   url: 'https://github.com/Rebilly/generator-openapi-repo'
